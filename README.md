@@ -19,4 +19,4 @@ Screenshots
 
 ![System Tray](Screenshots/Screenshot0.png)
 
-![APP GUI](Screenshots/Screenshot0.png)
+![APP GUI](Screenshots/Screenshot1.png)

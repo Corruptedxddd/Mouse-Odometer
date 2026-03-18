@@ -15,8 +15,6 @@ For build
 
 `pyinstaller --onefile --windowed --icon=favicon.ico --hidden-import=win32gui --hidden-import=win32api --add-data "favicon.ico;." main.py `
 
-Screenshots
-
 # SYSTEM TRAY
 
 ![System Tray](Screenshots/Screenshot0.png)

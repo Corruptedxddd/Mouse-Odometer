@@ -10,7 +10,7 @@ from winotify import Notification, audio
 import pystray
 from pystray import MenuItem as item
 from PIL import Image, ImageDraw
-from win10toast import ToastNotifier
+
 
 WM_INPUT = 0x00FF
 RID_INPUT = 0x10000003

@@ -17,6 +17,6 @@ For build
 
 Screenshots
 
-![System Tray]((https://github.com/Corruptedxddd/Mouse-Odometer/blob/main/Screenshots/Screenshot0.png))
+![System Tray](Screenshots/Screenshot0.png)
 
-![APP GUI]((https://github.com/Corruptedxddd/Mouse-Odometer/blob/main/Screenshots/Screenshot0.png))
+![APP GUI](Screenshots/Screenshot0.png)

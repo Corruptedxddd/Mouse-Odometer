@@ -17,6 +17,10 @@ For build
 
 Screenshots
 
+# SYSTEM TRAY
+
 ![System Tray](Screenshots/Screenshot0.png)
+
+# APP GUI
 
 ![APP GUI](Screenshots/Screenshot1.png)

@@ -17,6 +17,6 @@ For build
 
 Screenshots
 
-![System Tray](screenshots/screenshot0)
+![System Tray](Screenshots/Screenshot0)
 
-![APP GUI](screenshots/screenshot1)
+![APP GUI](Screenshots/Screenshot1)
